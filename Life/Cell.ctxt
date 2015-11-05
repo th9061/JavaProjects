@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isAlive()
+comment1.params=
+comment1.target=Cell()
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=state
+comment3.target=void\ setAlive(boolean)
+comment4.params=
+comment4.target=void\ update()
+numComments=5

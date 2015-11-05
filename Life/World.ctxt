@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=World(int)
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=
+comment2.target=void\ step()
+comment3.params=
+comment3.target=void\ Copy()
+comment4.params=
+comment4.target=void\ set()
+comment5.params=x\ y\ distance
+comment5.target=int\ LOD(int,\ int,\ int)
+numComments=6
